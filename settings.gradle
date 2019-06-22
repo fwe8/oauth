@@ -1,0 +1,6 @@
+rootProject.name = "auth"
+
+include "components:rest-support"
+
+include "services:service1"
+include "oauth-server"
